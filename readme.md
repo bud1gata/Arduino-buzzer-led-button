@@ -6,7 +6,7 @@ script to turn on LED and buzzer when pressed
 *    1 LED
 *    1 Button
 *    2 Transistor
-*    14 Cable
+*    10 Cable
 
 ## Dependency
 *    PlatformIO
